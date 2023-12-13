@@ -1,4 +1,4 @@
-# Blogging-website-
+# Blogging-website
 
 Installation steps:
 -install xamp
